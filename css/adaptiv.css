@@ -1,0 +1,334 @@
+@media screen and (max-width: 1000px) {
+    .container{
+        max-width: 900px;
+        margin: 0 auto;
+    }
+    .header_logo h2 {
+        margin-top: 40px;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .header_info_logo_text{
+        align-items: flex-start;
+    }
+    .content_section_1_wrapper{
+        flex-direction: column;
+    }
+    .item_1{
+        width: 80%;
+    }
+    .item_2{
+        margin-top: 20px;
+        width: 80%;
+    }
+    .stoimost_zakaza{
+        width: 50%;
+    }
+    .input_phone{
+        width: 42%;
+    }
+    .cheked{
+        margin-top: 18px;
+    }
+    .items_section_3 p{
+        font-size: 14px;
+    }
+    .items_content_3_section_4{
+        width: 33%;
+    }
+    .item_section_5 p{
+        font-size: 12px;
+    }
+    .items_content_section_6{
+        width: 20%;
+    }
+    .item_section_7 h3 {
+        font-size: 13px;
+    }
+    .line,.line_2{
+        display: none;
+    }
+    .item_content_section_8{
+        width: 33%;
+    }
+    .item_content_section_8{
+        justify-content: flex-start;
+    }
+    .item_content_section_8 h3{
+        text-align: center;
+    }
+    .content_section_9{
+        align-items: center;
+    }
+    .item_content_section_9{
+        height: 200px;
+    }
+    .content_info_section_10{
+        width: 45%;
+    }
+    .map_section_10{
+        margin-left: 40px;
+    }
+    iframe{
+        width: 100%;
+    }
+    .footer_menu{
+        margin-left: 30px;
+    }
+    .link_mesenger{
+        margin-right: 30px;
+    }
+}
+@media screen and (max-width: 800px) {
+    .Menu_phone{
+        display: block;
+    }
+    .header_nav{
+        display: none;
+    }
+    .container{
+        max-width: 700px;
+        margin: 0 auto;
+    }
+    .header{
+        flex-direction: column;
+        align-items: center;
+    }
+    .header_logo h2{
+        font-size: 30px;
+    }
+    .header_logo p{
+        font-size: 20px;
+    }
+    .header_info_logo_text h3{
+        font-size: 22px;
+    }
+    .header_phone_mail{
+        flex-direction: column;
+        align-items: center;
+    }
+    .buttons_phone{
+        margin:20px 0px 0px 0px;
+    }
+    .header_logo{
+        margin-bottom: 20px;
+    }
+    .header_phone_mail{
+        margin-top: 20px;
+    }
+    .items_section_3{
+        width: 23%;
+    }
+    .wrapper_content_3{
+        flex-direction: column;
+        align-items: center;
+    }
+    .items_content_3_section_4{
+        width: 80%;
+        margin-top: 20px;
+    }
+    .content_section_5{
+        flex-direction: column;
+    }
+    .content_items_section_5{
+        width: 100%;
+    }
+    .item_section_5{
+        margin-top: 10px;
+    }
+    .content_section_6{
+        flex-direction: column;
+        align-items: center;
+    }
+    .items_content_section_6{
+        width:auto;
+    }
+    .content_section_7{
+        flex-direction: column;
+    }
+    .items_content_section_7{
+        width: 100%;
+    }
+    .item_section_7{
+        margin-top: 20px;
+        width: 50%;
+    }
+    .input_section_11{
+        width: 33%;
+    }
+    .button_section_11{
+        width:auto;
+    }
+    .content_section_12{
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer_menu{
+        flex-direction: row;
+    }
+    .img_link_footer:not(:first-child){
+        margin-left: 30px;
+    }
+    .img_link_footer{
+        margin-top: 20px;
+    }
+    .footer_link{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 400px){
+    .container{
+        max-width: 380px;
+        margin: 0 auto;
+    }
+    .location {
+        margin-left: 89px;
+    }
+    .header{
+        align-items: center;
+    }
+    .header_info_logo_text h3 {
+        font-size: 17px;
+    }
+    .item_1 h1 {
+        margin: 20px 20px 0px 15px;
+        font-size: 18px;
+    }
+    .item_1{
+        height: 240.65px;
+    }
+    .item_1 p {
+        margin: 20px 0px 56px 15px;
+    }
+    .input_phone {
+        width: 59%;
+    }
+    .stoimost_zakaza {
+        width: 76%;
+        padding: 15px 5px;
+    }
+    .cheked {
+        margin-left: 24px;
+    }
+    .item_2{
+        padding-bottom: 30px;
+    }
+    .content_section_2{
+        flex-direction: column;
+        align-items: center;
+    }
+    .section_3_wrapper{
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 50px;
+    }
+    .items_section_3{
+        margin: 0;
+    }
+    .items_section_3:not(:first-child){
+        margin-right: 26px;
+    }
+    .items_section_3{
+        width: 80%;
+        margin-top: 20px;
+    }
+    .items_section_4{
+        flex-direction: column;
+        align-items: center;
+    }
+    .sub_title_section_4{
+        text-align: center;
+    }
+    .content_items_section_5{
+        flex-direction: column;
+        align-items: center;
+    }
+    .content_section_8{
+        flex-direction: column;
+        align-items: center;
+    }
+    .item_content_section_8{
+        width: 80%;
+        margin-top: 20px;
+    }
+    .content_section_9{
+        flex-direction: column;
+        align-items: center;
+    }
+    .item_content_section_9:not(:first-child) {
+        margin-right: 30px;
+    }
+    .item_content_section_9{
+        width: 80%;
+    }
+    .content_section_10{
+        flex-direction: column;
+        align-items: center;
+
+    }
+    .content_info_section_10{
+        width: 80%;
+    }
+    .map_section_10{
+        width: 80%;
+    }
+    iframe{
+        width: 100%;
+    }
+    .content_section_11{
+        flex-direction: column;
+        align-items: center;
+    }
+    .inputs_section_11{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .input_section_11:not(:first-child) {
+        margin-left: 0;
+    }
+    .input_section_11 {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .button_section_11_block{
+        display: flex;
+        width: 128%;
+        justify-content: center;
+    }
+
+    .button_section_11 {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    .button_section_11{
+        width: 100%;
+    }
+    .footer_link {
+        font-size: 12px;
+    }
+    .footer_menu {
+        display: none;
+    }
+    .header_logo h2 {
+        font-size: 30px;
+        text-align: center;
+    }
+    .map_section_10 {
+        margin: 30px 0 0 0;
+    }
+    .link_mesenger {
+        margin-right: 0;
+    }
+    .section_12 {
+        padding-top: 56px;
+        padding-bottom: 70px;
+        background: #393939;
+    }
+    .input_section_11 {
+        width: 99%;
+        margin-top: 20px;
+    }
+
+}
